@@ -1,0 +1,16 @@
+map: 'Town02'
+
+# aux_3 deleted infras_4 deleted
+#format：[x,y,z,pitch,yaw,roll]
+ego_location: [45.29999923706055,260.5,0.5,0.0,-90.0,0.0]
+aux_1_location: [50,237.6999969482422,0.5,0.0,-210.0,0.0]
+aux_2_location: [41.400001525878906,212.3000030517578,0.5,0.0,90.0,0.0]
+aux_3_location: [41.400001525878906,270.6999969482422,0.5,0.0,90.0,0.0]
+aux_4_location: [41.400001525878906,255.6999969482422,0.5,0.0,90.0,0.0]
+
+infrastructure_1_location: [45, 280, 5, -15, -90, 0]
+infrastructure_2_location: [41.4, 215.3, 5, -15, 90, 0]
+infrastructure_3_location: [ 60.8,240.9,5,-15,-180,0]
+infrastructure_4_location: [41.400001525878906,290.6999969482422,5,-15,90.0,0.0]
+
+#14 min

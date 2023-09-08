@@ -1,0 +1,11 @@
+#options: T1R1 T2R1 T3R1 T3R2 T3R3 T3R4 T5R1 T6R1 T7R1
+name: 'T3R1'
+# Rainy/Sunny/Foggy
+weather: 'Sunny'
+freq: 2
+range: 50
+output_dir: "data"
+#output_dir: '/media/whd/Elements SE/data/Timeline'
+gallery_ratio: 0.2
+round: 3   #weather 每次改变需要更改 1/2/3
+town: 3 #name中T每次改变需要更改

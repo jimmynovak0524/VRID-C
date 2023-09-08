@@ -1,0 +1,16 @@
+map: 'Town07'
+
+
+#format：[x,y,z,pitch,yaw,roll]
+ego_location: [71.69999694824219,-13.0,0.3,0.0,118.0,0.0]
+aux_1_location: [72.0,0.0,0.3,0.0,245.0,0.0]
+aux_2_location: [61.70000076293945,-2.700000047683716,0.3,0.0,180.0,0.0]
+aux_3_location: [65.2,2.8,0.3,0.0,15.0,0.0]
+aux_4_location: [ 52.20000076293945,0.0,0.3,0.0,0.0,0.0]
+
+infrastructure_1_location: [61.2, -4.1, 5, -15, 30, 0]
+infrastructure_2_location: [59.9, 7.1, 5, -15, -50, 0]
+infrastructure_3_location: [72.3, 5.4, 5, -15, 190, 0]
+infrastructure_4_location: [-11.1, -140.8, 5, -15, 0, 0]
+
+
