@@ -1,6 +1,6 @@
 About dataset
 %*************************************************************************%
-% The VeriContext is an large-scale contextual vehicle re-identification  %
+% The VRID-C is an large-scale contextual vehicle re-identification  %
 % dataset,it is collected by Carla simulator(version:0.9.10)              %
 % on Ubuntu 22.04                                                         %
 %                                                                         %
